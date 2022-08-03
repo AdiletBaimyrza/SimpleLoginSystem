@@ -1,5 +1,5 @@
 import psycopg2
-from myFuncitons import signUp, logIn
+from myFunctions import signUp, logIn
 
 def start():
     conn = psycopg2.connect("dbname=my_database user=postgres \
