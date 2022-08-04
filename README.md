@@ -7,4 +7,5 @@ provided in the terminal. It allows you to set a new password in case you forgot
 
 Motivation:
 
-I made this project as an exercise to practice the basics of PostgreSQL.
+I made this project as an exercise to practice the basics of PostgreSQL DBMS.
+
