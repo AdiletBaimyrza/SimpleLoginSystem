@@ -14,7 +14,6 @@ myFunctions.py: it contains functions such as
 > logIn()
 > signUp()
 > incorrectInput()
-> startOver()
 > insideAccount()
 > addProfile()
 > forgotPassword()
