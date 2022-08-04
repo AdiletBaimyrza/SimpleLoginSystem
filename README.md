@@ -23,3 +23,6 @@ Motivation:
 
 I made this project as an exercise to practice the basics of PostgreSQL DBMS.
 
+Ignore:
+
+I added this new line of code to practice branching in GitHub
